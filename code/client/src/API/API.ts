@@ -4,7 +4,6 @@ import { UserInfo } from "../Models/user";
 
 
 const baseURL = "http://localhost:3001/ezelectronics/"
-
 /** ------------------- Access APIs ------------------------ */
 
 async function login(username: string, password: string) {
